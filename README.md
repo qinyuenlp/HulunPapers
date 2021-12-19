@@ -19,3 +19,15 @@
 
 - LayerDrop，对每一层进行随机mask，提升模型每一层的鲁棒性，最终可以根据mask概率直接修剪模型，[pdf](./papers/Pruning/Reducing_Transformer_Depth_on_Demand_with_Structured_Dropout.pdf)，[arXiv](https://arxiv.org/pdf/1909.11556.pdf)，[知乎](https://zhuanlan.zhihu.com/p/93207254)
 
+
+
+## 3. Dialogue Management
+
+- 对话管理综述(2021)，[pdf](./papers/Dialogue/DialogueManagement/A_Survey_on_Dialog_Management：Recent_Advances_and_Challenges)
+
+
+
+## 4. 其他
+
+- LSTM+CRF学习率不一致，[苏神博客：你的CRF层学习率可能不够大](https://spaces.ac.cn/archives/7196)
+- 
