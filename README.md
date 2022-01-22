@@ -4,7 +4,7 @@
         Reading Papers
     </h1>
 </div>
-
+个人近期论文阅读笔记，备忘
 
 
 
@@ -23,7 +23,7 @@
 
 ## 3. Dialogue Management
 
-- 对话管理综述(2021)，[pdf](./papers/Dialogue/DialogueManagement/A_Survey_on_Dialog_Management：Recent_Advances_and_Challenges)
+- 对话管理综述(2021)，[pdf](./papers/Dialogue/DialogueManagement/A_Survey_on_Dialog_Management：Recent_Advances_and_Challenges.pdf)
 
 
 
