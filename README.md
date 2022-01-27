@@ -38,7 +38,13 @@
 
 
 
-## 6. 其他
+## 6. ASR
+
+- wav2vec2.0，一个强大的语音预训练模型，使用了对比学习模式，[pdf](./papers/ASR/wav2vec2.0：A_Framework_for_Self-Supervised_Learning_of_Speech_Representations.pdf)，[wav2vec1.0 pdf](./papers/wav2vec：Unsupervised_Pre-training_for_Speech_Recognition.pdf)，[github](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec)
+
+
+
+## *. 其他
 
 - LSTM+CRF学习率不一致，[苏神博客：你的CRF层学习率可能不够大](https://spaces.ac.cn/archives/7196)
 
