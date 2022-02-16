@@ -17,9 +17,15 @@
 
 
 
-## 2. 模型剪枝
+## 2. 模型压缩
+
+### 2.1 模型剪枝
 
 - LayerDrop，对每一层进行随机mask，提升模型每一层的鲁棒性，最终可以根据mask概率直接修剪模型，[pdf](./papers/Pruning/Reducing_Transformer_Depth_on_Demand_with_Structured_Dropout.pdf)，[arXiv](https://arxiv.org/pdf/1909.11556.pdf)，[知乎](https://zhuanlan.zhihu.com/p/93207254)
+
+### 2.2 模型蒸馏
+
+- MobileBERT，一个移动端的NLP预训练模型，从目前网络上的资源来看，实验结果为在Pixel4上运行只需要40ms，GLUE得分为77.7，比BERT-base低0.6（[数据来源: 陈之炎的知乎回答](https://www.zhihu.com/question/333166072/answer/2349137395)）。现已加入google-research豪华午餐。[arXiv](https://arxiv.org/abs/2004.02984)，[知乎](https://zhuanlan.zhihu.com/p/365193320)，[github](https://github.com/google-research/google-research/tree/master/mobilebert)
 
 
 
