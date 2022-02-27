@@ -12,9 +12,20 @@
 ## 1. Transformers
 
 - Transformer不适合NER任务及其解决方案，[pdf](./papers/Transformer/TENER：Adapting_Transformer_Encoder_for_Named_Entity_Recognition.pdf)，[arXiv](https://arxiv.org/abs/1911.04474)，[知乎](https://zhuanlan.zhihu.com/p/137315695)
+
 - FastFormer，一个Transformer加速方案(GPU&CPU)，[pdf](./papers/Transformer/FastFormers：Highly_Efficient_Transformer_Models_for_Natural_Language_Understanding.pdf)，[arXiv](https://arxiv.org/abs/2010.13382)，[知乎](https://zhuanlan.zhihu.com/p/275659092)
+
 - Performer，Google提出的一种新的Transformer架构，提升推理与训练速度和内存利用率，[pdf](./papers/Transformer/Rethinking_Attention_with_Performers.pdf)，[arXiv](https://arxiv.org/pdf/2009.14794.pdf)，[知乎](https://zhuanlan.zhihu.com/p/269751265)，[github(tf)](https://github.com/google-research/google-research/tree/master/performer)，[github(torch)](https://github.com/lucidrains/performer-pytorch)
+
 - Google 2020年的一篇Transformer综述，对比了当时各种Transformer变体，包括Performer、Linformer、Longformer等，[pdf](./papers/Transformer/Efficient_Transformers：A_Survey.pdf)，[arXiv](https://arxiv.org/abs/2009.06732)，[知乎](https://zhuanlan.zhihu.com/p/341476148)
+
+  <div align="center">
+    <a><img src="./imgs/transformer_variants_venn.png"></a>
+    <a><img src="./imgs/transformer_variants_table.png"></a>
+    <a><img src="./imgs/transformer_variants_performance.png"></a>
+  </div>
+
+  
 
 
 
