@@ -28,8 +28,8 @@
   <div align="center">
     <a><img src="./imgs/transformer_variants_performance.png"></a>
   </div>
-  
-  
+
+- **FLASH**，最近新提出的一种Transformer变体，依然是Google出品，苏神先导复现结果较为乐观，值得尝试。[pdf](./papers/Transformer/Transformer_Quality_in_Linear_Time.pdf)，[arXiv](https://arxiv.org/pdf/2202.10447.pdf)，[苏剑林: 科学空间](https://spaces.ac.cn/archives/8934)
 
 
 
