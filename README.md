@@ -22,9 +22,13 @@
   <div align="center">
     <a><img src="./imgs/transformer_variants_venn.png"></a>
     <a><img src="./imgs/transformer_variants_table.png"></a>
+  </div>
+  
+- Google 2020年的另一篇Transformer综述，比较了Transformer各种变体的计算效率，下图的来源。[pdf](./papers/Transformer/long_range_arena：a_benchmark_for_efficient_transformers.pdf)，[arXiv](https://arxiv.org/abs/2011.04006)
+  <div align="center">
     <a><img src="./imgs/transformer_variants_performance.png"></a>
   </div>
-
+  
   
 
 
