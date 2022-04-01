@@ -71,7 +71,7 @@
 
 ## 7.NLP Pre-Train Model
 
-- ELECTRA，一个我早就应该了解的预训练模型，效果与roberta持平，碾压BERT，具有更快的推理速度，[pdf](./papers/NLP-PTM/ELECTRA：Pre-Training_Text_Encoders_As_Discriminators_Rather_Than_Generators.pdf)，[arXiv](https://openreview.net/pdf?id=r1xMH1BtvB)，[github(google)](https://github.com/google-research/electra)，[github(Chinese-ELECTRA)](https://github.com/ymcui/Chinese-ELECTRA)
+- ELECTRA，一个我早就应该了解的预训练模型，效果与roberta持平，碾压BERT，具有更快的推理速度，[pdf](./papers/NLP-PTM/ELECTRA：Pre-Training_Text_Encoders_As_Discriminators_Rather_Than_Generators.pdf)，[arXiv](https://openreview.net/pdf?id=r1xMH1BtvB)，[github(google)](https://github.com/google-research/electra)，[github(Chinese-ELECTRA)](https://github.com/ymcui/Chinese-ELECTRA)，[知乎导读(李rumor)](https://zhuanlan.zhihu.com/p/89763176)
 
 
 
