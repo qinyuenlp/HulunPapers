@@ -66,6 +66,7 @@
 ## 6. ASR
 
 - wav2vec2.0，一个强大的语音预训练模型，使用了对比学习模式，[pdf](./papers/ASR/wav2vec2.0：A_Framework_for_Self-Supervised_Learning_of_Speech_Representations.pdf)，[wav2vec1.0 pdf](./papers/wav2vec：Unsupervised_Pre-training_for_Speech_Recognition.pdf)，[github](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec)
+- LREC2020上的一篇对NER在语音领域应用与研究现状的探讨，《Where are we in Named Entity Recognition from Speech》，[pdf](./papers/ASR/Where_are_we_in_Named_Entity_Recognition_from_Speech.pdf)，[pdf-online](https://aclanthology.org/2020.lrec-1.556.pdf)
 
 
 
@@ -73,6 +74,12 @@
 
 - ELECTRA，一个我早就应该了解的预训练模型，效果与roberta持平，碾压BERT，具有更快的推理速度，[pdf](./papers/NLP-PTM/ELECTRA：Pre-Training_Text_Encoders_As_Discriminators_Rather_Than_Generators.pdf)，[arXiv](https://openreview.net/pdf?id=r1xMH1BtvB)，[github(google)](https://github.com/google-research/electra)，[github(Chinese-ELECTRA)](https://github.com/ymcui/Chinese-ELECTRA)，[知乎导读(李rumor)](https://zhuanlan.zhihu.com/p/89763176)
 - PERT，SCIR在2022年3月份新出品的预训练模型，预训练任务为替换词序形成乱序文本后预测原token位置，[pdf](papers/NLP-PTM/PERT：Pre-Training_Bert_With_Permuted_Language_Model.pdf)，[arXiv](https://arxiv.org/pdf/2203.06906.pdf)，[github](https://github.com/ymcui/PERT)
+
+
+
+## 8.TTS: Text-To-Speech
+
+- FastSpeech2，[pdf](papers/TTS/FastSpeech2：Fast_and_High-Quality_End-to-End_Text_to_Speech.pdf)，[arXiv](https://arxiv.org/abs/2006.04558)
 
 
 
