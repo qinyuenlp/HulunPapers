@@ -66,6 +66,11 @@
 ## 6. ASR
 
 - wav2vec2.0，一个强大的语音预训练模型，使用了对比学习模式，[pdf](./papers/ASR/wav2vec2.0：A_Framework_for_Self-Supervised_Learning_of_Speech_Representations.pdf)，[wav2vec1.0 pdf](./papers/wav2vec：Unsupervised_Pre-training_for_Speech_Recognition.pdf)，[github](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec)
+
+- w2v-BERT，目前的SOTA(20220415)，结合了wav2vec2与HuBERT，利用MLM增强了wav2vec2的效果，[pdf](./papers/ASR/w2v-BERT：Combining_Contrastive_Learning_and_Masked_Language_Modeling_for_Self-Supervised_Speech_Pre-Training)，[arXiv](https://arxiv.org/abs/2108.06209v2)
+
+  <div align="center"><img src="./imgs/w2v-BERT.jpg" width="500"></div>
+
 - LREC2020上的一篇对NER在语音领域应用与研究现状的探讨，《Where are we in Named Entity Recognition from Speech》，[pdf](./papers/ASR/Where_are_we_in_Named_Entity_Recognition_from_Speech.pdf)，[pdf-online](https://aclanthology.org/2020.lrec-1.556.pdf)
 
 
