@@ -19,15 +19,15 @@
 
 - Google 2020年的一篇Transformer综述，对比了当时各种Transformer变体，包括Performer、Linformer、Longformer等，[pdf](./papers/Transformer/Efficient_Transformers：A_Survey.pdf)，[arXiv](https://arxiv.org/abs/2009.06732)，[知乎](https://zhuanlan.zhihu.com/p/341476148)
 
-  <div align="center">
-    <a><img src="./imgs/transformer_variants_venn.png"></a>
-    <a><img src="./imgs/transformer_variants_table.png"></a>
-  </div>
-  
+<div align="center">
+  <img src="./imgs/transformer_variants_venn.png" width="600">
+  <img src="./imgs/transformer_variants_table.png" width="500">
+</div>
+
 - Google 2020年的另一篇Transformer综述，比较了Transformer各种变体的计算效率，下图的来源。[pdf](./papers/Transformer/long_range_arena：a_benchmark_for_efficient_transformers.pdf)，[arXiv](https://arxiv.org/abs/2011.04006)
-  <div align="center">
-    <a><img src="./imgs/transformer_variants_performance.png"></a>
-  </div>
+<div align="center">
+	<img align="center" src="./imgs/transformer_variants_performance.png" width="400">
+</div>
 
 - **FLASH**，最近新提出的一种Transformer变体，依然是Google出品，苏神先导复现结果较为乐观，值得尝试。[pdf](./papers/Transformer/Transformer_Quality_in_Linear_Time.pdf)，[arXiv](https://arxiv.org/pdf/2202.10447.pdf)，[苏剑林: 科学空间](https://spaces.ac.cn/archives/8934)
 
