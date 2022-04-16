@@ -41,6 +41,7 @@
 
 ### 2.2 模型蒸馏
 
+- **The very beginning of the Model Distillation**，《Distilling the Knowledge in a Neural Network》，Geoffrey Hinton，[pdf](./papers/Distillation/Distilling_the_Knowledge_in_a_Neural_Network.pdf)，[arXiv](https://arxiv.org/abs/1503.02531)
 - MobileBERT，一个移动端的NLP预训练模型，从目前网络上的资源来看，实验结果为在Pixel4上运行只需要40ms，GLUE得分为77.7，比BERT-base低0.6（[数据来源: 陈之炎的知乎回答](https://www.zhihu.com/question/333166072/answer/2349137395)）。现已加入google-research豪华午餐。[arXiv](https://arxiv.org/abs/2004.02984)，[知乎](https://zhuanlan.zhihu.com/p/365193320)，[github](https://github.com/google-research/google-research/tree/master/mobilebert)
 
 
