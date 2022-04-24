@@ -39,6 +39,13 @@
 
 - LayerDrop，对每一层进行随机mask，提升模型每一层的鲁棒性，最终可以根据mask概率直接修剪模型，[pdf](./papers/Pruning/Reducing_Transformer_Depth_on_Demand_with_Structured_Dropout.pdf)，[arXiv](https://arxiv.org/pdf/1909.11556.pdf)，[知乎](https://zhuanlan.zhihu.com/p/93207254)
 
+- BERT-of-Theseus，利用module-replacing思路对模型进行压缩，无需经过“先训大模型，再压缩成小模型”的耗时过程，[pdf](./papers/Pruning/BERT-of-Theseus：Compressing_BERT_by_Progressive_Module_Replacing.pdf)，[arXiv](https://arxiv.org/abs/2002.02925v1)，[苏神博客](https://kexue.fm/archives/7575)，[知乎:邱震宇](https://zhuanlan.zhihu.com/p/112787764)
+
+<div align="center">
+	<img src="./imgs/BERT-of-Theseus.png" width="700">
+</div>
+
+
 ### 2.2 模型蒸馏
 
 - **The very beginning of the Model Distillation**，《Distilling the Knowledge in a Neural Network》，Geoffrey Hinton，[pdf](./papers/Distillation/Distilling_the_Knowledge_in_a_Neural_Network.pdf)，[arXiv](https://arxiv.org/abs/1503.02531)
