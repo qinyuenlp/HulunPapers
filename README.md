@@ -83,14 +83,20 @@
 
 
 
-## 7.NLP Pre-Train Model
+## 7.SLU: Spoken Language Understanding
+
+- Continuous-Token-Interface(CTI)，提出一种结合ASR与NLU任务的联合学习模型，来自ICASSP2022，《Integration of Pre-trained Networks with Continuous Token Interface for End-to-End Spoken Language Understanding》，[pdf](./papers/SLU/Integration_of_Pre-trained_Networks_with_Continuous_Token_Interface_for_End-to-End_Spoken_Language_Understanding.pdf)，[arXiv](https://arxiv.org/abs/2104.07253)
+
+  <div align="center"><img src="./imgs/continuous_token_interface.png" width="800"></div>
+
+## 8.NLP Pre-Train Model
 
 - ELECTRA，一个我早就应该了解的预训练模型，效果与roberta持平，碾压BERT，具有更快的推理速度，[pdf](./papers/NLP-PTM/ELECTRA：Pre-Training_Text_Encoders_As_Discriminators_Rather_Than_Generators.pdf)，[arXiv](https://openreview.net/pdf?id=r1xMH1BtvB)，[github(google)](https://github.com/google-research/electra)，[github(Chinese-ELECTRA)](https://github.com/ymcui/Chinese-ELECTRA)，[知乎导读(李rumor)](https://zhuanlan.zhihu.com/p/89763176)
 - PERT，SCIR在2022年3月份新出品的预训练模型，预训练任务为替换词序形成乱序文本后预测原token位置，[pdf](papers/NLP-PTM/PERT：Pre-Training_Bert_With_Permuted_Language_Model.pdf)，[arXiv](https://arxiv.org/pdf/2203.06906.pdf)，[github](https://github.com/ymcui/PERT)
 
 
 
-## 8.TTS: Text-To-Speech
+## 9.TTS: Text-To-Speech
 
 - FastSpeech2，[pdf](papers/TTS/FastSpeech2：Fast_and_High-Quality_End-to-End_Text_to_Speech.pdf)，[arXiv](https://arxiv.org/abs/2006.04558)
 
