@@ -87,7 +87,7 @@
 
 - Continuous-Token-Interface(CTI)，提出一种结合ASR与NLU任务的联合学习模型，来自ICASSP2022，《Integration of Pre-trained Networks with Continuous Token Interface for End-to-End Spoken Language Understanding》，[pdf](./papers/SLU/Integration_of_Pre-trained_Networks_with_Continuous_Token_Interface_for_End-to-End_Spoken_Language_Understanding.pdf)，[arXiv](https://arxiv.org/abs/2104.07253)
 
-  <div align="center"><img src="./imgs/continuous_token_interface.png" width="800"></div>
+  <div align="center"><img src="./imgs/Continuous-Token-Interface.png" width="800"></div>
 
 ## 8.NLP Pre-Train Model
 
