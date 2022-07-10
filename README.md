@@ -81,6 +81,9 @@
 
 - LREC2020上的一篇对NER在语音领域应用与研究现状的探讨，《Where are we in Named Entity Recognition from Speech》，[pdf](./papers/ASR/Where_are_we_in_Named_Entity_Recognition_from_Speech.pdf)，[pdf-online](https://aclanthology.org/2020.lrec-1.556.pdf)
 
+- Interspeech2022上的一篇端到端ASR工作，在模型设计时考虑了中文拼音特征。[arXiv](https://arxiv.org/abs/2201.10792)
+  <div align="center"><img src="./imgs/On_the_Effectiveness_of_Pinyin-Character_Dual-Decoding_for_End-to-End_Mandarin_Chinese_ASR.png" width="600"></div>
+
 
 
 ## 7.SLU: Spoken Language Understanding
